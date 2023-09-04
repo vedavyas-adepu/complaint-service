@@ -18,7 +18,7 @@
 		<java.version>17</java.version>
 		<sonar.host.url>http://localhost:9000</sonar.host.url>
 		<sonar.login>admin</sonar.login>
-		<sonar.password>Vedavyas@123</sonar.password>
+		<sonar.password>adminn</sonar.password>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -67,7 +67,7 @@
 			<plugin>
 				<groupId>org.sonarsource. scanner. Maven</groupId>
 				<artifactId>sonar-maven-plugin</artifactId>
-				<version>10.1.0.73491</version>
+				<version>3.6.0.1398</version>
 			</plugin>
 			<plugin>
 				<groupId>org.jacoco</groupId>
